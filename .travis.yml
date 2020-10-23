@@ -1,0 +1,23 @@
+dist: bionic
+language: python
+python:
+- 3.8
+env:
+before_install:
+- chmod +x ./.deploy_scripts/tlsetup.sh
+- "./.deploy_scripts/tlsetup.sh"
+install:
+- pip install -r requirements.txt
+script:
+- make deploy
+- make pdf
+after_success:
+- cp ./_build/latex/Images_from_above.pdf ./_build/html/Images_from_above.pdf
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: "$GH_TOKEN"
+  keep-history: false
+  on:
+    branch: main
+  local_dir: _build/html

@@ -1,0 +1,9 @@
+.. meta::
+   :twitter:card: summary
+   :og:title: Images from above
+   :og:type: website
+   :og:description: A review of aerial assessment in support of humanitarian response operations
+   :twitter:image: https://raw.githubusercontent.com/AmericanRedCross/images-from-above/main/meta/twitter-img.png
+   :og:image: https://raw.githubusercontent.com/AmericanRedCross/images-from-above/main/meta/og-img.png
+   :og:image:width: 1200
+   :og:image:height: 627
