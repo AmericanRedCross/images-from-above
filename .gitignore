@@ -1,5 +1,6 @@
 _build
 venv
+googleanalytics
 
 # Base ignores:
 # =============

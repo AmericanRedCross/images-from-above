@@ -40,3 +40,7 @@ sudo apt-get install latexmk
 #     tools          \
 #     graphics       \
 #     xcolor
+
+git clone https://github.com/sphinx-contrib/googleanalytics.git
+cd googleanalytics
+python setup.py install
