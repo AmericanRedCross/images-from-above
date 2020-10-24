@@ -22,6 +22,15 @@ sys.path.insert(0, os.path.abspath('.'))
 
 import sphinx_bootstrap_theme
 
+# -------------------------------------------------------------------------
+# Workaround for issue https://github.com/sphinx-contrib/googleanalytics/issues/2
+# Note that a warning still will be issued "unsupported object from its setup() function"
+# Remove this workaround when the issue has been resolved upstream
+import sphinx.application
+import sphinx.errors
+sphinx.application.ExtensionError = sphinx.errors.ExtensionError
+# -------------------------------------------------------------------------
+
 # -- General configuration ------------------------------------------------
 
 # If your documentation needs a minimal Sphinx version, state it here.
