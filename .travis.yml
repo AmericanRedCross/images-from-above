@@ -14,7 +14,7 @@ script:
 - make deploy
 - make pdf
 after_success:
-- cp ./_build/latex/Images_from_above.pdf ./_build/html/Images_from_above.pdf
+- cp ./_build/latex/Images_from_Above.pdf ./_build/html/Images_from_Above.pdf
 deploy:
   provider: pages
   skip-cleanup: true
