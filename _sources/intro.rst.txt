@@ -1,0 +1,21 @@
+.. include:: meta.txt
+
+#######
+Summary
+#######
+
+Aerial assessment is generally conducted by satellite, manned aircraft, or drones. It can play an important role in understanding the magnitude, geographic scope, scale, and severity of a disaster. However, aerial assessment has not necessarily been well leveraged in humanitarian response and well integrated with other components of an operation. This is due to a number of reasons ranging from complications around technical expertise to political restrictions.
+
+In this study we've explored some of the challenges surrounding aerial assessment and have identified a range of recommendations that fall generally into four categories: (1) tools, (2) partnerships, (3) assessment literacy, and (4) cross-cutting issues that apply to aerial assessment but also more broadly to the perpetual puzzle of improving how information can better support disaster response.
+
+The study is intended to be accessible for a broad range of humanitarians, not just those with preexisting experience of aerial assessment, and therefore includes foundational information in the initial sections. The study seeks to highlight key issues and opportunities, but not provide a definite plan of action. Rather, we hope it serves as a useful review and aggregation of thoughts from some of the leaders in areas related to aerial assessment, as a starting point for sparking conversations and additional research, prioritizing and planning next steps, and as a tool to support coordination and alignment of future work on these topics.
+
+##########
+Background
+##########
+
+The International Federation of Red Cross Red Crescent Societies (IFRC) and National Societies (NS) have been evolving their use of aerial and satellite remotely sensed data in disaster response operations, with early examples including after the Haiti earthquake of 2010. Recently, IFRC's Global Surge and Information Management Teams together with multiple NS have been collaborating in the Assessment and Planning in Emergencies working group to improve and adapt emergency needs assessment for the Red Cross Red Crescent network. As part of IFRC initiatives to optimize emergency response surge processes, a new concept was defined for a team dedicated to needs assessment and analysis in support of a National Society; an Assessment Cell. In 2019, IFRC deployed the first Assessment Cell in response to Tropical Cyclone Idai in Mozambique. The Assessment Cell collaborated and coordinated with the United Nations Office for the Coordination of Humanitarian Affairs (UN OCHA), the United Nations Disaster Assessment and Coordination (UNDAC) teams, and other organisations to help all humanitarian humanitarian responders better understand the magnitude and severity of the disaster.
+
+Gaining an understanding of the disaster was challenged by the large area to be assessed, damaged transportation infrastructure, and other factors. Thanks to a partnership the IFRC holds with Airbus Foundation, substantial helicopter assets were available to conduct aerial assessment and deliver aid in Mozambique. The outputs from the helicopter assessment were well received by responding organisations. However, the methodology was developed rapidly and it was acknowledged that there should be efforts to establish more standardised approaches to integrating aerial assessment into humanitarian response and planning processes. It was acknowledged in operation reviews that such a workstream would require attention at the inter-agency level and within the UNDAC Assessment and Analysis Cell at the global level.
+
+This study was conducted by the IFRC for a high-level examination of the state of aerial assessment in humanitarian response. Although conducted through the lens of the Red Cross and Red Crescent network, the study sought to include the experiences, expertise, and knowledge of individuals from both within, and external to, the network. It sought to explore a couple of core questions. **How has aerial assessment been leveraged in response, both successfully and without effect? How can the use of aerial assessment be improved or expanded in the future to better account for organisational capacities, changing technologies, and the evolving landscape of humanitarian response?**
